@@ -455,7 +455,7 @@ fieldset[disabled] .btn-theme {
   	[Footer]
 ------------------------------------------------------------------*/
 .footer {
-  background: black;
+  color:black;
 }
 
 .footer .footer-seperator {
